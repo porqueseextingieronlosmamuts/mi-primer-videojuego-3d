@@ -10,6 +10,6 @@ config_version=5
 
 [application]
 
-config/name="Mi-primer-videojuego-3D"
+config/name="mi-primer-videojuego-3d"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
